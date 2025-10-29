@@ -25,7 +25,7 @@
 ### 🏗️ Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🎙️ **Voice-to-Quotation Backend** | Converts speech to structured quotations using AWS Transcribe & OpenAI API with layered architecture. |  |
+| 🎙️ **Voice-to-Quotation Backend** | Our team project in Co.Te.De company |  |
 | 🔌 **Simplified IoT Integration Platform** | My graduation project, Lets electricians auto-generate ESP32 firmware, connect via MQTT, and monitor in real time. | [GitHub link](https://github.com/mohammad0faqusa/IoT_graduationProject) |
 | 🌐 **University Class Projects** | various projects for many classes during my college studying |[GitHub link](https://github.com/mohammad-faqusa/University-Class-Projects.git)|
 

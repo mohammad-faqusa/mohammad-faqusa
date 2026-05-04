@@ -45,8 +45,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammad-faqusa&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-faqusa&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img src="https://streak-stats.demolab.com?user=mohammad-faqusa&theme=dark&hide_border=true"/>
 </p>
 
 ---

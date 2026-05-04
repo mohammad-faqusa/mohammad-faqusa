@@ -40,7 +40,10 @@
 - **AWS Academy Introduction to Cloud** — [Repo](https://github.com/mohammad-faqusa/aws-academy)  
 - **Java Programming Masterclass** — [Repo](https://github.com/mohammad-faqusa/java-course-projects) *(In Progress)*
 - **Design Patterns Mastery – Java** — [Repo](https://github.com/mohammad-faqusa/design-patterns)
-
+- **The Ultimate React Course 2025: React, Next.js, Redux & More** — [Repo](https://github.com/mohammad-faqusa/react_course) *(In Progress)*
+- **Mastering Linux: The Comprehensive Guide** — [Repo](https://github.com/mohammad-faqusa/linux_tutorial) *(In Progress)*
+- **Socket.IO Deep Dive – Real-Time Applications** — [Repo](https://github.com/mohammad-faqusa/socketio)
+- **From Zero to Mastery in Python – A Comprehensive Learning and Project Showcase** — [Repo](https://github.com/mohammad-faqusa/python_course)
 ---
 
 ### 📈 GitHub Stats

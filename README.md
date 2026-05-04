@@ -38,7 +38,8 @@
 - **Node.js, Express, MongoDB & More** — [Repo](https://github.com/mohammad-faqusa/nodejs_course)  
 - **Complete Web Development Bootcamp** — [Repo](https://github.com/mohammad-faqusa/Web-Development-Bootcamp)  
 - **AWS Academy Introduction to Cloud** — [Repo](https://github.com/mohammad-faqusa/aws-academy)  
-- **Java Programming Masterclass** — [Repo](https://github.com/mohammad-faqusa/java-course-projects) *(In Progress)*  
+- **Java Programming Masterclass** — [Repo](https://github.com/mohammad-faqusa/java-course-projects) *(In Progress)*
+- **Design Patterns Mastery – Java** — [Repo](https://github.com/mohammad-faqusa/design-patterns)
 
 ---
 

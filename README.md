@@ -44,6 +44,14 @@
 - **Mastering Linux: The Comprehensive Guide** — [Repo](https://github.com/mohammad-faqusa/linux_tutorial) *(In Progress)*
 - **Socket.IO Deep Dive – Real-Time Applications** — [Repo](https://github.com/mohammad-faqusa/socketio)
 - **From Zero to Mastery in Python – A Comprehensive Learning and Project Showcase** — [Repo](https://github.com/mohammad-faqusa/python_course)
+- **Beginning C++ Programming - From Beginner to Beyond** — [Udemy Certification](https://www.udemy.com/certificate/UC-f29f4914-ba57-4717-9388-9c00f5cda228/)
+- **The Git & Github Bootcamp** — [Udemy Certification](https://www.udemy.com/certificate/UC-91359850-4c5d-43f4-9dcf-c4511aaccafb/)
+- **Clean Code** — [Udemy Certification](https://www.udemy.com/certificate/UC-ccafe551-2055-4e72-8e15-ed859e477fb5/)
+- **Build Responsive Real-World Websites with HTML and CSS** — [Udemy Certification](https://www.udemy.com/certificate/UC-ef14abc9-78d4-458b-9a33-6f1217a1a8bc/)
+- **Advanced CSS and Sass: Flexbox, Grid, Animations and More!** — [Udemy Certification](https://www.udemy.com/certificate/UC-f578c17c-eb27-40d7-83ad-ca584354444a/)
+- **The Complete JavaScript Course 2025: From Zero to Expert!** — [Udemy Certification](https://www.udemy.com/certificate/UC-8ae916d7-99c9-4637-a423-c92e34ad9f86/)
+- **AJAX Fundamentals - ALL IN - 2026** — [Udemy Certification](https://www.udemy.com/certificate/UC-8b9bed10-f07b-4bdf-b8e1-fc09d95e5bff/)
+
 ---
 
 ### 📈 GitHub Stats

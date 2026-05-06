@@ -26,7 +26,7 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | 🎙️ **Voice-to-Quotation Backend** | Our team project in Co.Te.De company |  |
-| 🔌 **Simplified IoT Integration Platform** | My graduation project, Lets electricians auto-generate ESP32 firmware, connect via MQTT, and monitor in real time. | [GitHub link](https://github.com/mohammad0faqusa/IoT_graduationProject) |
+| 🔌 **Smart Home Builder** | My graduation project, Lets electricians auto-generate ESP32 firmware, connect via MQTT, and monitor in real time. | [GitHub link](https://github.com/mohammad0faqusa/IoT_graduationProject) |
 | 🗳️ **Election Management System** | Secure voting system with QR-based voter identification, deployed on AWS EC2. Handles voter registration, validation, and result tracking with backend security and environment-based configuration. | [GitHub link](https://github.com/mohammad-faqusa/election) |
 | 🌐 **University Class Projects** | various projects for many classes during my college studying |[GitHub link](https://github.com/mohammad-faqusa/University-Class-Projects.git)|
 
